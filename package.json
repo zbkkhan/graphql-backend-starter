@@ -1,0 +1,25 @@
+{
+  "name": "graphql-backend-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.5.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zbkkhan/graphql-backend-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zbkkhan/graphql-backend-starter/issues"
+  },
+  "homepage": "https://github.com/zbkkhan/graphql-backend-starter#readme"
+}
